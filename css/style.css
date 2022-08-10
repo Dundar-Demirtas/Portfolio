@@ -30,8 +30,8 @@ h3 {        font-family: 'Montserrat', sans-serif;    color: #11999E;  text-alig
 
 }
 
-.cloud1 {   position:absolute; right: 1550px; top:3px ;    } /* sol */ .rainsol {position:absolute; right: 1550px; top:53px ; } /*sol */
-.cloud2 {  position:absolute; left: 1550px; top:400px ;  } /* sağ */  .rainsag  {position:absolute; left: 1550px; top:450px ; } /*sağ */
+.cloud1 {   position:absolute; right: 1000px; top:3px ;    } /* sol */ .rainsol {position:absolute; right: 1000px; top:53px ; } /*sol */
+.cloud2 {  position:absolute; left: 1000px; top:400px ;  } /* sağ */  .rainsag  {position:absolute; left: 1000px; top:450px ; } /*sağ */
 .mount {  position:relative; left: 500; top:0px; bottom: 10px; height: 750px; width: 850px;  }       
 
 
