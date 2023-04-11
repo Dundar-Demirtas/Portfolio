@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Early-CV/static/css/main.ca5c58a6.css",
-    "main.js": "/Early-CV/static/js/main.abefbf82.js",
+    "main.js": "/Early-CV/static/js/main.58e5a69a.js",
     "static/media/realestate.jpg": "/Early-CV/static/media/realestate.44fd19f4c6872731149c.jpg",
     "static/media/backg.jpg": "/Early-CV/static/media/backg.e2bc677ba6a03185081f.jpg",
     "static/media/dundarprofil2.jpg": "/Early-CV/static/media/dundarprofil2.b28a594126e41f8add12.jpg",
@@ -17,10 +17,10 @@
     "static/media/javascript.png": "/Early-CV/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Early-CV/index.html",
     "main.ca5c58a6.css.map": "/Early-CV/static/css/main.ca5c58a6.css.map",
-    "main.abefbf82.js.map": "/Early-CV/static/js/main.abefbf82.js.map"
+    "main.58e5a69a.js.map": "/Early-CV/static/js/main.58e5a69a.js.map"
   },
   "entrypoints": [
     "static/css/main.ca5c58a6.css",
-    "static/js/main.abefbf82.js"
+    "static/js/main.58e5a69a.js"
   ]
 }
