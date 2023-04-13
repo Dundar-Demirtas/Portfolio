@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Early-CV/static/css/main.ca5c58a6.css",
-    "main.js": "/Early-CV/static/js/main.58e5a69a.js",
+    "main.css": "/Early-CV/static/css/main.6f99d14c.css",
+    "main.js": "/Early-CV/static/js/main.7fc9db20.js",
+    "static/media/backg.png": "/Early-CV/static/media/backg.707cfe3f4bef35784418.png",
     "static/media/realestate.jpg": "/Early-CV/static/media/realestate.44fd19f4c6872731149c.jpg",
-    "static/media/backg.jpg": "/Early-CV/static/media/backg.e2bc677ba6a03185081f.jpg",
     "static/media/dundarprofil2.jpg": "/Early-CV/static/media/dundarprofil2.b28a594126e41f8add12.jpg",
     "static/media/workImg.jpeg": "/Early-CV/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
     "static/media/react.png": "/Early-CV/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -16,11 +16,11 @@
     "static/media/firebase.png": "/Early-CV/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/Early-CV/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Early-CV/index.html",
-    "main.ca5c58a6.css.map": "/Early-CV/static/css/main.ca5c58a6.css.map",
-    "main.58e5a69a.js.map": "/Early-CV/static/js/main.58e5a69a.js.map"
+    "main.6f99d14c.css.map": "/Early-CV/static/css/main.6f99d14c.css.map",
+    "main.7fc9db20.js.map": "/Early-CV/static/js/main.7fc9db20.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca5c58a6.css",
-    "static/js/main.58e5a69a.js"
+    "static/css/main.6f99d14c.css",
+    "static/js/main.7fc9db20.js"
   ]
 }
